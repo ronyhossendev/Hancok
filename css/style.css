@@ -272,6 +272,8 @@ p {
 }
 /* Counter Part  End */
 /* Popular Part  Start  */
+
+
 #popularPart {
   background: #191919;
   padding: 115px 0 90px 0;
@@ -1060,7 +1062,16 @@ p {
     color: #fff;
     font-family: "Barlow Condensed", sans-serif;
 }
+.back-to-top a i{
+  color: #FF4655;
+  font-size: 30px;
 
+}
+.back-to-top{
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+}
 /* Copyright Part End */
 /* Banner Part  Start  */
 /* Banner Part  End */
